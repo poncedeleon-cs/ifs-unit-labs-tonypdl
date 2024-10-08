@@ -49,15 +49,15 @@ Quadrant 1
 
 Quadrant 2 
 
-Quadrant 1 
+0
 
-Quadrant 4 
+0
 
 Quadrant 3 
 
-Quadrant 1 
+0
 
-Quadrant 2 
+0 
 
 Quadrant 4 
 
